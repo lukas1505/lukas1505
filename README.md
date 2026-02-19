@@ -2,7 +2,6 @@
 <h3 align="center">IT-Security Student | System Administrator | Offensive Security Enthusiast</h3>
 
 <p align="center">
-🔐 Dual IT-Security Student at Airbus Defence & Space <br>
 🛡 Passionate about Cyber Security, CTFs & Bug Bounty <br>
 ⚙️ Focused on Low-Level Programming & Secure Infrastructure
 </p>
