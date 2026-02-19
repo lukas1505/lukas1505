@@ -13,7 +13,7 @@
 
 - 🔭 Solving HackTheBox machines & CTF challenges
 - 🧠 Diving into Offensive Security & Exploit Development
-- 🛠 Building & hardening self-hosted infrastructure (Nextcloud, nginx, Mailserver)
+- 🛠 Building & hardening self-hosted infrastructure
 
 ---
 
@@ -24,6 +24,7 @@
 <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45"/></a>
+<a href="https://www.swift.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="45" height="45"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
 <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45"/></a>
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/></a>
